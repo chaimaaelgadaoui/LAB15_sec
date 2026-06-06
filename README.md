@@ -2,7 +2,6 @@
 
 **Étudiante :** Chaimaa Elgadaoui  
 **Cours :** Sécurité des applications mobiles  
-**Date :** 06 juin 2026  
 
 ---
 
